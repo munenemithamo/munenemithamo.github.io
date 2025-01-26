@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://charlesmunene.com/sitemap-index.xml
